@@ -1,0 +1,23 @@
+SupplierID,SupplierName,ContactName,Address,City,PostalCode,Country,Phone  
+1,Exotic Liquids,Charlotte Cooper,49 Gilbert St.,London,EC1 4SD,UK,(171) 555-2222  
+2,New Orleans Cajun Delights,Shelley Burke,P.O. Box 78934,New Orleans,70117,USA,(100) 555-4822  
+3,Grandma Kelly's Homestead,Regina Murphy,707 Oxford Rd,Ann Arbor,48104,USA,(313) 555-5735  
+4,Tokyo Traders,Yoshi Nagase,9-8 Sekimai Musashino-shi,Tokyo,100,Japan,(03) 3555-5011  
+5,Cooperativa de Quesos 'Las Cabras',Antonio del Valle,Calle del Rosal 4,Oviedo,33007,Spain,(98) 598 76 54  
+6,African Spice Traders,Ayo Adeyemi,14 Market Street,Lagos,10101,Nigeria,(234) 1 234 5678  
+7,Blue Mountain Coffee,James Kingston,254 Blue Mountain Rd,Kingston,12000,Jamaica,(876) 555-1234  
+8,Dolce Sweets,Carla Ferraro,Viale della Libertà 10,Rome,00192,Italy,(39) 06 555 7890  
+9,Fruitful Farms,Katherine Lee,123 Orchard Way,San Francisco,94107,USA,(415) 555-3456  
+10,Herbs and Spices,Satish Gupta,45 Spice Street,Mumbai,400001,India,(91) 22 5555 8970  
+11,Ice Cream Dream,Laura Kent,55 Creamery Lane,Chicago,60601,USA,(312) 555-6789  
+12,Jasmine Tea Co.,Li Wei,33 Tea Road,Hangzhou,310000,China,(86) 571 555 7788  
+13,Kingfish Seafood,Tony Chen,4 Fisherman's Wharf,New Orleans,70116,USA,(504) 555-8899  
+14,Luxury Chocolates,Nilay Tiwari,10 Sweet Street,Mumbai,400099,India,(91) 22 5555 1234  
+15,Mediterranean Bites,Elena Rossi,20 Via dei Pini,Milan,20100,Italy,(39) 02 555 0101  
+16,Natural Nut Company,Bubbles Johnson,76 Nut Street,Los Angeles,90001,USA,(213) 555-0011  
+17,Old World Olive Oil,Josie Cartwright,212 Olive Ave,Barcelona,08001,Spain,(34) 93 555 3344  
+18,Peanut Butter Paradise,Jimmy Chen,8 Nutty Way,Orlando,32801,USA,(407) 555-7888  
+19,Sweet Honey Farms,Bobby Bee,89 Honeycomb Dr,Memphis,38103,USA,(901) 555-4567  
+20,Urban Artisan Bakery,Maya Singh,404 Artisan Row,London,SE1 1PL,UK,(44) 20 5555 8910  
+21,Vintage Vineyards,Rafael Garcia,12 Vineyard Rd,Valencia,46001,Spain,(34) 96 555 2233  
+22,Yummy Cupcakes,Isabella Martinez,75 Dessert Blvd,San Diego,92101,USA,(619) 555-6611

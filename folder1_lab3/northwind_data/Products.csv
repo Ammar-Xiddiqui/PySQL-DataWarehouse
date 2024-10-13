@@ -1,0 +1,26 @@
+ProductID,ProductName,SupplierID,CategoryID,Unit,Price  
+1,Chais,1,1,10 boxes x 20 bags,18  
+2,Chang,1,1,24 - 12 oz bottles,19  
+3,Aniseed Syrup,1,2,12 - 550 ml bottles,10  
+4,Chef Anton's Cajun Seasoning,2,2,48 - 6 oz jars,22  
+5,Chef Anton's Gumbo Mix,2,2,36 boxes,21.35  
+6,Apple Juice,1,1,24 - 500 ml bottles,14  
+7,Green Tea,1,1,15 bags,12  
+8,Tomato Sauce,2,2,24 - 400 g jars,15  
+9,Grilled Chicken,2,4,10 - 1 kg bags,30  
+10,Instant Coffee,1,1,100 g jar,9.50  
+11,Chocolate Sauce,2,2,12 - 500 g bottles,18  
+12,Whole Wheat Pasta,2,5,20 x 500 g packets,3.50  
+13,Cream Cheese,3,4,12 - 200 g tubs,2.70  
+14,Basil Pesto,3,2,6 - 180 g jars,7.20  
+15,Sesame Oil,3,2,24 - 500 ml bottles,11  
+16,Organic Oats,4,5,12 - 400 g bags,4.50  
+17,Vegetable Stir-Fry Mix,4,1,10 - 1 kg bags,19.99  
+18,Peanut Butter,4,2,24 - 340 g jars,15  
+19,Jasmine Rice,5,5,5 kg bag,25  
+20,Clam Chowder,5,1,12 - 400 g cans,22  
+21,Mango Chutney,5,2,24 - 300 g jars,9.95  
+22,Maple Syrup,5,2,12 - 250 ml bottles,25  
+23,Almond Flour,5,5,1 kg bag,11.50  
+24,Granola Bars,5,3,30 bars,16  
+25,Vanilla Extract,5,2,12 - 100 ml bottles,30
